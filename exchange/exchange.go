@@ -17,9 +17,9 @@ import (
 
 
 type ExchangeProcessor struct {
-	ExchangeConfig *ExchangeConfig
-	backend  *storage.RedisClient
-	rpc      *RestClient
+	ExchangeConfig ExchangeConfig
+	backend  storage.RedisClient
+	rpc      RestClient
 	halt     bool
 
 }
