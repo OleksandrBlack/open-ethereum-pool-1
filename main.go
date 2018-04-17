@@ -15,7 +15,7 @@ import (
 	"github.com/techievee/open-ethereum-pool/payouts"
 	"github.com/techievee/open-ethereum-pool/proxy"
 	"github.com/techievee/open-ethereum-pool/storage"
-	"github.com/techievee/open-ethereum-pool/exchange"
+	"github.com/saifiifazal/open-ethereum-pool/exchange"
 )
 
 var cfg proxy.Config
