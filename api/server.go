@@ -13,8 +13,8 @@ import (
 	"github.com/gorilla/mux"
 	"github.com/robfig/cron"
 
-	"github.com/techievee/open-ethereum-pool/storage"
-	"github.com/techievee/open-ethereum-pool/util"
+	"github.com/saifiifazal/open-ethereum-pool/storage"
+	"github.com/saifiifazal/open-ethereum-pool/util"
 	"fmt"
 )
 
