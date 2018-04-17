@@ -11,10 +11,10 @@ import (
 
 	"github.com/yvasiyarov/gorelic"
 
-	"github.com/techievee/open-ethereum-pool/api"
-	"github.com/techievee/open-ethereum-pool/payouts"
-	"github.com/techievee/open-ethereum-pool/proxy"
-	"github.com/techievee/open-ethereum-pool/storage"
+	"github.com/saifiifazal/open-ethereum-pool/api"
+	"github.com/saifiifazal/open-ethereum-pool/payouts"
+	"github.com/saifiifazal/open-ethereum-pool/proxy"
+	"github.com/saifiifazal/open-ethereum-pool/storage"
 	"github.com/saifiifazal/open-ethereum-pool/exchange"
 )
 
