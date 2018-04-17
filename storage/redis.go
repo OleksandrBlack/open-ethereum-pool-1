@@ -1260,7 +1260,7 @@ func convertPaymentsResults(raw *redis.ZSliceCmd) []map[string]interface{} {
 	return result
 }
 
-func (r *RedisClient) StoreExchangeData(ExchangeData []map[string]string) {
+/* func (r *RedisClient) StoreExchangeData(ExchangeData []map[string]string) {
 
 	tx := r.client.Multi()
 	defer tx.Close()
@@ -1291,4 +1291,4 @@ func (r *RedisClient) GetExchangeData(coinsymbol string) (map[string]string, err
 	}
 
 	return result, err
-}
+} */
