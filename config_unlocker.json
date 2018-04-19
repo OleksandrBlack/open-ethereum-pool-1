@@ -1,9 +1,9 @@
 {
 	"threads": 2,
-	"coin": "eth",
+	"coin": "etc",
 	"name": "ethunlocker",
 	"pplns": 1000,
-	"coin-name":"ETH",
+	"coin-name":"ETC",
 
 	"upstreamCheckInterval": "5s",
 	"upstream": [
