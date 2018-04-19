@@ -1,9 +1,9 @@
 {
-	"threads": 1,
-	"coin": "eth",
+	"threads": 4,
+	"coin": "etc",
 	"name": "ethapi",
 	"pplns": 1000,
-	"coin-name":"ETH",
+	"coin-name":"ETC",
 
 	"api": {
 		"enabled": true,
